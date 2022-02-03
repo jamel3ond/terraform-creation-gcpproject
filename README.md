@@ -3,7 +3,7 @@
 <img src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png" width="350px">
 
 ## Prerequisites
-...Prepare an environment that can use **Terraform** commands such as Google Cloud Shell, Visual Studio Code.
+⋅⋅⋅Prepare an environment that can use **Terraform** commands such as Google Cloud Shell, Visual Studio Code.
 
 ## Features
 * Create GCP project, bind billing account, and created a new project under folder.
